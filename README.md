@@ -1,2 +1,1 @@
-# MAVISO
-MAVISO - Next generation delivery platform for Africa
+# MAVISO Admin\n\nPlanned next.
